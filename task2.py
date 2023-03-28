@@ -1,5 +1,5 @@
 #read the shape of the building
-building = input("Enter the shape of the building (square, rectangular or round): ") 
+building = input("Enter the shape of the building ("square", "rectangular" or "round"): ") 
 #intialize the area and pi
 building_area = 0;
 pi = 3.142
